@@ -12,7 +12,7 @@ export function Home() {
       </Link>
       
       <Link to={"/admin"}>
-      <Button variant={ButtonVariant.Outlined}>Tenho um abrigo</Button>
+        <Button variant={ButtonVariant.Outlined}>Tenho um abrigo</Button>
       </Link>
     </div>
   )
